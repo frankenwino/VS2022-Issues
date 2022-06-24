@@ -17,7 +17,7 @@
 
 ## 2. Debugger seems to be disabled.
 * Clicking on run executes the entire program. The breakpoint is not hit.
-* *Start debugging* option is greyed out.
+* *Start Debugging* option is greyed out.
 * Breakpoint not a solid red circle.
 
 ![Image](https://github.com/frankenwino/VS2022-Issues/blob/main/Debug%20menu.png)
