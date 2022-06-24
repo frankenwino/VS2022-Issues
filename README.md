@@ -21,6 +21,6 @@
 * Breakpoint not a solid red circle.
 
 ![Image](https://github.com/frankenwino/VS2022-Issues/blob/main/Debug%20menu.png)
-* Get a 'Cannot execute /Users/../fuilename.exe' error (which is to be expected - it's a not a Windows machine)
+* Get a *'Cannot execute /Users/../fuilename.exe'* error (which is to be expected - it's not a Windows machine)
 
 ![Image](https://github.com/frankenwino/VS2022-Issues/blob/main/Cannot%20Execute.png)
