@@ -1,4 +1,4 @@
-# VS2022: Two Issues
+# Visual Studio Community 2022 for Mac: Two Issues
 
 ## Platform 
 **OS**: Mac OS X 10.15.7
