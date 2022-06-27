@@ -6,8 +6,8 @@
 **VS**: Visual Studio Community 2022 for Mac v17.0.3 (build 21)
 
 
-## 1. How to connect Visual Studio 2022 for Mac to Github?
-
+## 1. Unable to connect Visual Studio 2022 for Mac to Github
+### What I'm doing
 * Click:
   * Visual Studio menu -> Account -> Add
   * Asked to sign into Visual Studio account (which I do using my personal account) then the sign in screen disappears.
