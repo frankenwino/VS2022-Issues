@@ -8,10 +8,10 @@
 
 ## 1. Unable to connect Visual Studio 2022 for Mac to Github
 ### What I'm doing
-* Click:
-  * Visual Studio menu -> Account -> Add
-  * Asked to sign into Visual Studio account (which I do using my personal account) then the sign in screen disappears.
-  * I click on Add again and we continue this loop.
+* Click on *Visual Studio* menu -> *Account* -> *Add*
+* Asked to sign into Visual Studio account even though I already am logged in.
+* I re-login using my personal account and the sign in screen disappears.
+* Click on *Visual Studio* menu -> *Account* -> *Add* again, expecting to be allowed to add a Github account. Instead, I'm again asked to log into the Visual Studio account and we continue this loop.
 
 ![Image](https://github.com/frankenwino/VS2022-Issues/blob/main/Git%20menu.png)
 
