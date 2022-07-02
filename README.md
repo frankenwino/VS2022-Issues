@@ -24,3 +24,7 @@
 * Get a *'Cannot execute /Users/../fuilename.exe'* error (which is to be expected - it's not a Windows machine)
 
 ![Image](https://github.com/frankenwino/VS2022-Issues/blob/main/Cannot%20Execute.png)
+
+## 3. Where is Object browser?
+* On Windows you click *View* -> *Object Browser*
+* *Object Browser* is not found within the *View* menu on VS 2022 for Mac
