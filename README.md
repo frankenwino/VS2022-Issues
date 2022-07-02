@@ -28,3 +28,5 @@
 ## 3. Where is Object browser?
 * On Windows you click *View* -> *Object Browser*
 * *Object Browser* is not found within the *View* menu on VS 2022 for Mac
+
+![Image](https://github.com/frankenwino/VS2022-Issues/blob/7c29d516bb5658345d640bd0acc0651466869ca5/Object%20Browser%20Missing.png)
